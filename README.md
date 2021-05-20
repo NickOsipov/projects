@@ -1,6 +1,9 @@
 ## My projects
 
-| First Header  | Second Header | Stack |
-| ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  |  |
-| Content Cell  | Content Cell  |  |
+| Направление  | Название | Описание | Stack|
+| ------------- | ------------- | ------------- | ------------- |
+| Математика  | 
+[Линейная%алгебра%на%чистом%Python%3](/pure_python_linear_algebra) | 
+Модуль с функциями для работы с базовой линейной алгеброй, реализованный с использованием стандартной библиотеки Python 3.8 |
+Python 3.8 (stdlib) |
+| Content Cell  | Content Cell  | | |
