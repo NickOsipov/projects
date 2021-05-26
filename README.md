@@ -35,8 +35,8 @@
 
 <tr>
 <td><b>Machine Learning</b></td>
-<td><a href="https://github.com/NickOsipov/projects/tree/main/regression_on_chem_industry" rel="nofollow"><b>Regression on table data</b></a></td>
-<td>Прогнозирование показателей датчиков в химической промышленности, размеченных в табличные данные.</td>
+<td><a href="https://github.com/NickOsipov/projects/tree/main/regression_on_chem_industry" rel="nofollow"><b>Regression on time series table data</b></a></td>
+<td>Прогнозирование временных рядов показателей датчиков в химической промышленности, размеченных в табличные данные.</td>
 <td>pandas<br>numpy<br>matplotlib<br>seaborn<br>sklearn
 </td>
 </tr>
@@ -44,7 +44,7 @@
 <tr>
 <td><b>Deep Learning</b></td>
 <td><a href="https://github.com/NickOsipov/projects/tree/main/lstmvae_time_series_anonaly_detection" rel="nofollow"><b>LSTM-VAE for time series anomaly detection</b></a></td>
-<td>Нейронная сеть (вариационный автоэнкодер c рекурентными слоями) для генерации временных рядов, а также определения в них аномалий</td>
+<td>Нейронная сеть (вариационный автоэнкодер c рекурентными слоями) для генерации временных рядов, а также определения аномалий.</td>
 <td>pandas<br>numpy<br>plotly<br>keras<br>sklearn
 </td>
 </tr>
