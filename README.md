@@ -21,32 +21,28 @@
 <td><b>Data Analysis</b></td>
 <td><a href="https://github.com/NickOsipov/projects/tree/main/mobile_app_ab_test_analysis" rel="nofollow"><b>A/B Test result analysis</b></a></td>
 <td>Анализ результатов А/Б теста проведенного в мобильном dating-приложении</td>
-<td>pandas<br>numpy<br>scipy<br>matplotlib<br>seaborn<br>prettytable
-</td>
+<td>pandas<br>numpy<br>scipy<br>matplotlib<br>seaborn<br>prettytable</td>
 </tr>
 
 <tr>
 <td><b>Data Analysis</b></td>
 <td><a href="https://github.com/NickOsipov/projects/tree/main/yandex_video_games_market" rel="nofollow"><b>Video games market analysis</b></a></td>
 <td>Анализ продаж видеоигр на рынке игровой индустрии.</td>
-<td>pandas<br>numpy<br>matplotlib<br>seaborn
-</td>
+<td>pandas<br>numpy<br>matplotlib<br>seaborn</td>
 </tr>
 
 <tr>
 <td><b>Machine Learning</b></td>
 <td><a href="https://github.com/NickOsipov/projects/tree/main/regression_on_chem_industry" rel="nofollow"><b>Regression on time series table data</b></a></td>
 <td>Прогнозирование временных рядов показателей датчиков в химической промышленности, размеченных в табличные данные.</td>
-<td>pandas<br>numpy<br>matplotlib<br>seaborn<br>sklearn
-</td>
+<td>pandas<br>numpy<br>matplotlib<br>seaborn<br>sklearn</td>
 </tr>
 
 <tr>
 <td><b>Deep Learning</b></td>
 <td><a href="https://github.com/NickOsipov/projects/tree/main/lstmvae_time_series_anonaly_detection" rel="nofollow"><b>LSTM-VAE for time series anomaly detection</b></a></td>
-<td>Нейронная сеть (вариационный автоэнкодер c рекурентными слоями) для генерации временных рядов, а также определения аномалий.</td>
-<td>pandas<br>numpy<br>plotly<br>keras<br>sklearn
-</td>
+<td>Нейронная сеть (вариационный автоэнкодер c рекурентными слоями) для генерации временных рядов, и определения аномалий.</td>
+<td>pandas<br>numpy<br>plotly<br>keras<br>sklearn</td>
 </tr>
 
 </tbody>
