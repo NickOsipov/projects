@@ -31,7 +31,7 @@
 <td>pandas<br>numpy<br>matplotlib<br>seaborn</td>
 </tr>
 
-<!-- <tr>
+<tr>
 <td><b>Machine Learning</b></td>
 <td><a href="https://github.com/NickOsipov/projects/tree/main/regression_on_chem_industry" rel="nofollow"><b>Regression on time series table data</b></a></td>
 <td>Прогнозирование временных рядов показателей датчиков в химической промышленности, размеченных в табличные данные.</td>
@@ -46,4 +46,4 @@
 </tr>
 
 </tbody>
-</table>  -->
+</table> 
