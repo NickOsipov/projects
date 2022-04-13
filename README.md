@@ -32,8 +32,15 @@
 </tr>
 
 <tr>
+<td><b>Dashboard</b></td>
+<td><a href="https://github.com/NickOsipov/projects/tree/main/dashboard_games_market" rel="nofollow"><b>Dashboard Games Market</b></a></td>
+<td>Дашборд состояния игровой индустрии 2000-2016</td>
+<td>pandas<br>plotly<br>dash</td>
+</tr>
+
+<tr>
 <td><b>Machine Learning</b></td>
-<td><a href="https://github.com/NickOsipov/projects/tree/main/regression_on_chem_industry" rel="nofollow"><b>Regression on time series table data</b></a></td>
+<td><a href="https://github.com/NickOsipov/projects/tree/main/regression_on_chem_industry" rel="nofollow"><b>Time Series Regression</b></a></td>
 <td>Прогнозирование временных рядов показателей датчиков в химической промышленности, размеченных в табличные данные.</td>
 <td>pandas<br>numpy<br>matplotlib<br>seaborn<br>sklearn</td>
 </tr>
