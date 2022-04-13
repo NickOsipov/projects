@@ -17,3 +17,5 @@
 
 Дашборд загружен на heroku для удобства просмотра:
 https://dashboard-games-market.herokuapp.com/
+
+![](screenshot.png)
